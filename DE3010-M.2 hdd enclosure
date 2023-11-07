@@ -1,0 +1,23 @@
+　　1、① TYPE-C port USB Gen2 has a maximum transfer rate of 10Gbps, (backward compatible USB3.1 maximum transfer rate is 5Gbps; Backward compatible USB2.0 maximum transfer rate: 480Mbps)；
+
+　　2、② The M2 interface is the NVME Express specification with a maximum transmission rate of 10Gbps；
+
+　　3、③ The maximum transfer rate of the SATA interface is 6Gbps；
+
+　　4、④ DC port power adapter 12V 3A；
+
+　　5、⑤ Power button, power switch button；
+
+　　6、⑥ Toggle switch, clone mode setting switch, turn on to position 1 for M2 clone to SATA, turn on to position 2 for SATA clone to M2 ；
+
+　　7、⑦ Clone key, clone start key；
+
+　　8、⑧ Clone progress indicator, cloning progress 4 segments indicate 25%, 50%, 75%, 100%；
+
+　　9、⑨ NVME indicator, NVME hard disk insertion light on（Blinking when reading and writing）；
+
+　　10、⑩ SATA indicator, SATA hard disk plugged in when the light is on（Blinking when reading and writing）；
+
+　　11、⑪ Power indicator, power on light on；
+
+　　12、Support Multi-LUN function, support offline file copy, clone；
